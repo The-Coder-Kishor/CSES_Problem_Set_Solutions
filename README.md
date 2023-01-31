@@ -4,8 +4,8 @@ Over 280 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     3/19      |
-| **Total**             |  **2/300**    |
+| Introductory Problems |     5/19      |
+| **Total**             |  **5/300**    |
 
 # Table of Contents
 
