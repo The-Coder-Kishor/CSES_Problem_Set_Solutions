@@ -18,4 +18,6 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 6. [Number Spiral](/Intoductory%20Problems/number_spiral.cpp)
 7. [Two Knights](/Intoductory%20Problems/two_knights.cpp)
 8. [Two Sets](/Intoductory%20Problems/two_sets.cpp)
-
+9. [Bit Strings](/Intoductory%20Problems/bit_strings.cpp)
+10. [Trailing Zeroes](/Intoductory%20Problems/trailing_zeroes.cpp)
+11. [Coin Piles](/Intoductory%20Problems/coin_piles.cpp)
