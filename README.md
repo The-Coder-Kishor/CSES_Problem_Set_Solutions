@@ -1,6 +1,6 @@
 # CSES Solutions
 
-Over 280 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Adithya Kishor
+Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Adithya Kishor
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
