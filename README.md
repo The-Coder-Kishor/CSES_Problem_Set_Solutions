@@ -4,8 +4,8 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     8/19      |
-| **Total**             |  **8/300**    |
+| Introductory Problems |     13/19      |
+| **Total**             |  **13/300**    |
 
 # Table of Contents
 
@@ -21,3 +21,5 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 9. [Bit Strings](/Intoductory%20Problems/bit_strings.cpp)
 10. [Trailing Zeroes](/Intoductory%20Problems/trailing_zeroes.cpp)
 11. [Coin Piles](/Intoductory%20Problems/coin_piles.cpp)
+12. [Palindrome Reorder](/Intoductory%20Problems/palindrome_reorder.cpp)
+13. [Gray Code](/Intoductory%20Problems/gray_code.cpp)
