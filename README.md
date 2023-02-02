@@ -5,7 +5,7 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     19/19      |
-| 
+| Sorting and Searching |      0/35      |
 | **Total**             |  **19/300**    |
 
 # Table of Contents
@@ -30,3 +30,6 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 17. [Chessboard and Queens](/1.Intoductory%20Problems/chessboard_and_queens.cpp)
 18. [Digit Queries](/1.Intoductory%20Problems/digit_queries.cpp)
 19. [Grid Paths](/1.Intoductory%20Problems/grid_paths.cpp)
+
+## Sorting and Searching
+1. [Distinct Numbers](/2.Sorting%20and%20Searching/distinct_numbers.cpp)
