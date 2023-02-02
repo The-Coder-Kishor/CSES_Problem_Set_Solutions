@@ -32,3 +32,4 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 
 ## [Sorting and Searching](/2.Sorting%20and%20Searching/)
 1. [Distinct Numbers](/2.Sorting%20and%20Searching/distinct_numbers.cpp)
+2. [Apartments](/2.Sorting%20and%20Searching/apartments.cpp)
