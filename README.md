@@ -4,8 +4,9 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     13/19      |
-| **Total**             |  **13/300**    |
+| Introductory Problems |     19/19      |
+| 
+| **Total**             |  **19/300**    |
 
 # Table of Contents
 
