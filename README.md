@@ -9,10 +9,9 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 | **Total**             |  **19/300**    |
 
 # Table of Contents
-<details>
-<summary>## [Introductory Problems](/1.Intoductory%20Problems/)</summary>
-+ 1. [Weird Algorithm](/1.Intoductory%20Problems/weird_algorithm.cpp)
-+ 2. [Missing Number](/1.Introductory%20Problems/missing_number.cpp)
+## [Introductory Problems](/1.Intoductory%20Problems/)</>
+1. [Weird Algorithm](/1.Intoductory%20Problems/weird_algorithm.cpp)
+2. [Missing Number](/1.Introductory%20Problems/missing_number.cpp)
 3. [Repetitions](/1.Intoductory%20Problems/repetitions.cpp)
 4. [Increasing Arrays](/1.Intoductory%20Problems/increasing_array.cpp)
 5. [Permutations](/1.Intoductory%20Problems/permutations.cpp)
