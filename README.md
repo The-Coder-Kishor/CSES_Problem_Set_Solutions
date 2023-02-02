@@ -30,5 +30,5 @@ Accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), writt
 18. [Digit Queries](/1.Intoductory%20Problems/digit_queries.cpp)
 19. [Grid Paths](/1.Intoductory%20Problems/grid_paths.cpp)
 
-## Sorting and Searching
+## [Sorting and Searching](/2.Sorting%20and%20Searching/)
 1. [Distinct Numbers](/2.Sorting%20and%20Searching/distinct_numbers.cpp)
